@@ -1,0 +1,50 @@
+_repo: Helin-kesa_75611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hirn, Eva
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '53947'
+    url: http://www.gutenberg.org/2009/agents/53947
+    wikipedia: https://fi.wikipedia.org/wiki/Eva_Hirn
+description: 'Reading ease score: 54.1 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf:
+- 'Browsing: Gender & Sexuality Studies'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75611'
+language: fi
+pgterms:marc905: 20250308231241hirn
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Helin kesä" by Eva Hirn is a novel written in the early 20th century. The
+  story centers around Heli, a young woman navigating her academic pursuits, familial
+  expectations, and social life in a transitional period marked by evolving gender
+  roles. Readers are introduced to Heli''s struggles with her responsibilities and
+  ambitions as she contemplates her future and seeks independence.  The opening of
+  the novel establishes Heli''s character, showcasing her dedication to her studies
+  in science while managing her household duties as the only daughter among brothers.
+  Heli''s conversations with her friends, particularly Meri, reveal their aspirations,
+  societal pressures, and the contrasting challenges they face as women. As Heli articulates
+  her desire for freedom from domestic constraints, she reveals plans to take on a
+  summer job as a servant in a wealthy household, aiming to experience life away from
+  her current environment. This decision sets the stage for her adventures and explorations
+  of class and identity that may unfold as the story progresses. (This is an automatically
+  generated summary.)'
+title: Helin kesä
+url: http://www.gutenberg.org/ebooks/75611
