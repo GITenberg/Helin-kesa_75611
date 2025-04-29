@@ -1,5 +1,8 @@
 _repo: Helin-kesa_75611
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hirn, Eva
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://fi.wikipedia.org/wiki/Eva_Hirn
 description: 'Reading ease score: 54.1 (10th to 12th grade). Somewhat difficult to
   read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75611#Helin-kesa
 gutenberg_bookshelf:
 - 'Browsing: Gender & Sexuality Studies'
 - 'Browsing: Fiction'
